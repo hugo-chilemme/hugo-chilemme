@@ -1,6 +1,6 @@
 # 👋 Bonjour, je suis Hugo Chilemme
 
-![Background](https://github.com/hugo-chilemme/hugo-chilemme/blob/main/background.png)
+![Background](https://github.com/hugo-chilemme/hugo-chilemme/blob/main/background.png?id=2)
 
 Développeur passionné basé à Toulouse, France, avec une expertise en développement web, mobile, et logiciel. J'évolue dans un environnement collaboratif et innovant, où mes compétences en développement Full Stack et mes connaissances en systèmes complexes me permettent de concevoir des solutions impactantes.
 
