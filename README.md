@@ -60,7 +60,7 @@ Développeur passionné basé à Toulouse, France, avec une expertise en dévelo
 
 ## 🌍 Langues
 
-- Français : Natif/Bilingue  
+- Français : Natif
 - Anglais : Professionnel  
 - Espagnol : Élémentaire
 
