@@ -2,7 +2,7 @@
 
 ![Background](https://github.com/hugo-chilemme/hugo-chilemme/blob/main/background.png?id=3)
 
-Développeur passionné basé à Toulouse, France, avec une expertise en développement web, mobile, et logiciel. J'évolue dans un environnement collaboratif et innovant, où mes compétences en développement Full Stack et mes connaissances en systèmes complexes me permettent de concevoir des solutions impactantes.
+Développeur passionné basé à Toulouse, France, avec une expertise en développement web, mobile et logiciel. J'évolue dans un environnement collaboratif et innovant, où mes compétences en développement Full Stack et mes connaissances en systèmes complexes me permettent de concevoir des solutions impactantes.
 
 ## 🌐 Réseaux sociaux
 
